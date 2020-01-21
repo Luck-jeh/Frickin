@@ -7,7 +7,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
  *
- * @author Luck - 1/21/20
+ * @author Luck - 1/21/20 new
  */
 public class Student {
     
