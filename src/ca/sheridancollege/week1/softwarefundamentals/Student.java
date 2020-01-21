@@ -13,6 +13,7 @@ public class Student {
     
     private String name;
     private String grade;
+    private String course;
 
     public String getGrade() {
         return grade;
